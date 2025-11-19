@@ -1,0 +1,25 @@
+*{
+    font-family: poppins,sans-serif;
+    list-style-type: none;
+}
+.text-color{
+    color: #E4E0E1;
+}
+.color-1{
+    background-color: #493628;
+}
+.color-2{
+    color: #FFEAC5;
+}
+.Scrolling-active{
+    background-color: #AB886D;
+    transition: 0.5s;
+}
+.hero{
+    background-image:linear-gradient(rgb(1, 1, 1,0.7)) ,url(../../asset/img/hero.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
