@@ -2,17 +2,26 @@
     font-family: poppins,sans-serif;
     list-style-type: none;
 }
+.text-color2{
+    color: #00d800;
+}
 .text-color{
-    color: #E4E0E1;
+    color: hsl(345, 7%, 89%);
 }
-.color-1{
-    background-color: #493628;
+.color-bg3{
+    background-color: #00d800;
 }
-.color-2{
-    color: #FFEAC5;
+.color-bg2{
+    background-color: #ededed;
+}
+.color-bg1{
+    background-color: #010a29;
+}
+.border{
+    border-radius: 20px;
 }
 .Scrolling-active{
-    background-color: #AB886D;
+    background-color: #010a29;
     transition: 0.5s;
 }
 .hero{
@@ -23,3 +32,7 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+a:link{
+    text-decoration: none;
+}
+border color-bg3 my-3 fw-bold text-center
