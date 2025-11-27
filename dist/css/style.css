@@ -2,6 +2,12 @@
   font-family: poppins, sans-serif;
   list-style-type: none;
 }
+.b{
+  color: #284459;
+}
+.text-color3{
+  color: #284459;
+}
 .text-color2 {
   color: #f9a0ce;
 }
@@ -44,5 +50,8 @@ a:link {
 }
 /* border color-bg3 my-3 fw-bold text-center */
 .navbar{
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(7px);
+}
+.col .grad img{
+  background-color: linear-gradient(180deg,#eee,#f9a0ce,#eee);
 }
